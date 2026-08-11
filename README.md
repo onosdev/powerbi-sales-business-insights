@@ -73,7 +73,21 @@ This demonstrates the importance of validating data coverage before interpreting
 
 ## Dashboard Preview
 
-Screenshots of the Power BI dashboard will be added here.
+### Page 1 — Executive Overview
+
+![Page 1 — Executive Overview](page-1-executive-overview.png)
+
+### Page 2 — Sales Performance
+
+![Page 2 — Sales Performance](page-2-sales-performance.png)
+
+### Page 3 — Customer & Account Analysis
+
+![Page 3 — Customer & Account Analysis](page-3-customer-account-analysis.png)
+
+### Page 4 — Executive Insights
+
+![Page 4 — Executive Insights](page-4-executive-insights.png)
 
 ## Author
 
